@@ -1,16 +1,21 @@
-## Hi there 👋
+Sejam bem vindo ao mu perfil!
 
-<!--
-**gabrielsimaodeoliveiraa/gabrielsimaodeoliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ola meu nome é **Gabriel Simao** mais costumam me chamar de pelé 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou estududando na [alura](https://cursos.alura.com.br/loginForm)
+
+tenho 15 anos 
+
+gosto de jogar handebol
+
+gosto bastante de dormir
+
+pretendo ser rico 
+
+entre em contato comigo pelo(simao.oliveira.gabriel@escola.pr.gov.br)
+
+![](https://media.tenor.com/V_wc7FTe0pQAAAAM/yin-yang-spin.gif)
+
+
+![](https://media.tenor.com/OHdCF9GjALwAAAAM/pelezera-wiping-mouth.gif)
